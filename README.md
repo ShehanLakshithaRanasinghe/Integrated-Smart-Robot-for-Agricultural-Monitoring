@@ -10,20 +10,20 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 🌟 Core Functionalities  
+##  Core Functionalities  
 
-### ⚡ Grass Cutting Automation  
+###  Grass Cutting Automation  
 - Blade activates automatically when the robot moves forward.  
 - Deactivates during stops or directional turns.  
 - Controlled by **Arduino Uno** logic + **LabVIEW sequencing**.  
 
-### 💧 Intelligent Watering System  
+###  Intelligent Watering System  
 - **Two modes**:  
   - *Manual*: Triggered via a LabVIEW virtual switch.  
   - *Automatic*: Based on sensor data (temperature, humidity, light).  
 - Default watering duration: **60s**, adjustable via a custom timer.  
 
-### 🚧 Obstacle Detection & Navigation  
+###  Obstacle Detection & Navigation  
 - **Sensors**: Four VL53L0X ToF sensors (2 front, 2 sides).  
 - Behavior:  
   - If obstacle < 20 cm → turn left/right.  
@@ -31,7 +31,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 - Decision-making handled by **Arduino Uno**, motor control via **LabVIEW interface**.  
 - Includes **manual navigation buttons** in LabVIEW for operator override.  
 
-### 🌊 Custom Conductive Water Level Sensor  
+###  Custom Conductive Water Level Sensor  
 - 3-step water level detection using conductive probes.  
 - Calibrated for accuracy.  
 - Levels displayed as **Boolean indicators** on the LabVIEW dashboard.  
@@ -39,7 +39,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 🛠️ Hardware Components  
+##  Hardware Components  
 
 - **Arduino Uno** – Core controller  
 - **LM35 Sensor** – Temperature monitoring  
@@ -52,7 +52,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 🧑‍💻 Software & Tools  
+##  Software & Tools  
 
 - **Arduino IDE** (programming microcontroller)  
 - **LabVIEW** (UI, control logic, visualization)  
@@ -61,7 +61,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 🚀 Usage  
+##  Usage  
 
 1. Power on the robot and initialize the **Arduino Uno**.  
 2. Launch **LabVIEW Dashboard** to monitor and control.  
@@ -75,7 +75,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 📊 Demonstration  
+##  Demonstration  
 
 - ✅ Automatic grass cutting while moving forward  
 - ✅ Obstacle avoidance & safe navigation  
@@ -84,7 +84,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 🔮 Future Enhancements  
+##  Future Enhancements  
 
 - Add **solar panel power system** for sustainability.  
 - Integrate **wireless communication (Wi-Fi / IoT dashboard)**.  
@@ -93,9 +93,3 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-## 👨‍💻 Authors  
-
-Developed by **[Your Team / Your Name]** ✨  
-If you like this project, don’t forget to ⭐ the repo!  
-
----

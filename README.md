@@ -16,6 +16,9 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 
 ---
+### Project in a nutshell
+![Project in a nutshell](images/Viva1.png)
+
 
 ##  Core Functionalities  
 

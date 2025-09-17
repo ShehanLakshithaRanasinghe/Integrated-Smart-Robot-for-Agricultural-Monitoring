@@ -10,8 +10,10 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
-### Preoject Demonstration + VIVA
-![Preoject Demonstration + VIVA](images\viva3.jpg)
+## Video Explanations
+
+👉 [Demonstration Video Folder](https://drive.google.com/drive/folders/10yKoOL6ZhvUNLYHSySBeZGKUMJKicJC7?usp=drive_link)
+
 
 ---
 

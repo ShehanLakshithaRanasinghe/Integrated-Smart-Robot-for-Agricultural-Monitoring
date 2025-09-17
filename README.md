@@ -44,8 +44,10 @@ This project integrates **hardware, software, and instrumentation principles** t
 ###  Custom Conductive Water Level Sensor  
 - 3-step water level detection using conductive probes.  
 - Calibrated for accuracy.  
-- Levels displayed as **Boolean indicators** on the LabVIEW dashboard.  
+- Levels displayed as **Boolean indicators** on the LabVIEW dashboard.
 
+### Custom Sensor Design
+![Custom Sensor Design](images/custom_sensor_archi.jpg)
 
 ---
 

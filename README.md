@@ -10,6 +10,11 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ---
 
+### Preoject Demonstration + VIVA
+![Preoject Demonstration + VIVA](viva3.jpg)
+
+---
+
 ##  Core Functionalities  
 
 ###  Grass Cutting Automation  

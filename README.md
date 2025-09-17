@@ -11,7 +11,7 @@ This project integrates **hardware, software, and instrumentation principles** t
 ---
 
 ### Preoject Demonstration + VIVA
-![Preoject Demonstration + VIVA](viva3.jpg)
+![Preoject Demonstration + VIVA](images\viva3.jpg)
 
 ---
 

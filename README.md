@@ -77,10 +77,10 @@ This project integrates **hardware, software, and instrumentation principles** t
 
 ##  Demonstration  
 
-- ✅ Automatic grass cutting while moving forward  
-- ✅ Obstacle avoidance & safe navigation  
-- ✅ Watering triggered automatically / manually  
-- ✅ Real-time environmental monitoring via LabVIEW  
+-  Automatic grass cutting while moving forward  
+-  Obstacle avoidance & safe navigation  
+-  Watering triggered automatically / manually  
+-  Real-time environmental monitoring via LabVIEW  
 
 ---
 
